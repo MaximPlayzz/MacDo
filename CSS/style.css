@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+
+* {
+
+  background-color: #3AB8D8;
+}
+
+h1 {
+  color: white;
+  font-size: 80px;
+  font-family: 'Bungee Spice', cursive;
+}
+#burgertxt {
+  color: white;
+  font-size: 28px;
+  font-family: monospace;
+}
